@@ -13,7 +13,7 @@ feature_row:
     Recognized for showing extreme ownership and accountability in 'Run-the-Business' track which enabled smooth set up of the new team and transition of responsibilities. Solved critical system bugs and performed data fixes in production for unblocking close to 150 customers.
     Set up domain micro service from scratch and developed major APIs which would help decouple the domain capabilities from monolith.
     Leveraged GenAI for developing slack bot as part of company-wide hackathon (GED) to provide support for on-call engineers and new hires."
-  - image_path: /assets/images/BITS-convo.jpg
+  - image_path: /assets/images/BITS-convo-new.jpg
     alt: "fully responsive"
     title: "Merit Scholarship, BITS Pilani (2019-2023)"
     excerpt: "Secured the Institute Merit Scholarship (100% tuition fee waiver) at BITS Pilani for all 8 semesters, awarded to the top 1% students in a cohort of 1100 based on academic performance."
