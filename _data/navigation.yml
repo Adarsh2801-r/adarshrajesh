@@ -1,0 +1,15 @@
+main:
+  - title: "About"
+    url: /
+  - title: "My Journey"
+    url: /journey/
+  - title: "Projects"
+    url: /projects/
+  - title: "Publications"
+    url: /pubs/
+  - title: "Awards"
+    url: /awards/
+  - title: "Blog"
+    url: https://medium.com/@adarsh2801
+  - title: "Contact"
+    url: /contact/
