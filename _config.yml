@@ -31,7 +31,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+remote_theme           : "mmistakes/minimal-mistakes"
 
 teaser: /assets/images/bio-photo.jpeg
 
