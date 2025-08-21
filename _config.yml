@@ -41,7 +41,7 @@ teaser: /assets/images/bio-photo.jpeg
 author:
   name             : "Adarsh Rajesh"
   avatar           : /assets/images/bio-photo.jpeg
-  bio              : "ML+Systems @ CMU SCS | Backend Engineer | Built and scaled systems with 100M+ traffic | Prev @ Intuit, Nutanix, GE Healthcare"
+  bio              : "ML+Systems @ CMU SCS || Backend Engineer || Built and scaled systems with 100M+ traffic || Prev @ Intuit, Nutanix, GE Healthcare"
   location         : "Pittsburgh, Pennsylvania"
   links:
     - label: "Email"
