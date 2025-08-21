@@ -42,7 +42,7 @@ author:
   name             : "Adarsh Rajesh"
   avatar           : /assets/images/bio-photo.jpeg
   bio              : "ML+Systems @ CMU SCS | Backend Engineer | Built and scaled systems with 100M+ traffic | Prev @ Intuit, Nutanix, GE Healthcare"
-  location         : "Bengaluru, India"
+  location         : "Pittsburgh, Pennsylvania"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -68,7 +68,7 @@ footer:
       url: "mailto:adarshrajesh0208@gmail.com"
     - label: "Mobile"
       icon: "fa-fw fa-solid fa-phone"
-      url: "tel:+91 9912210884"
+      url: "tel:+1 (412) 606-8695"
 
 plugins:
   - jekyll-paginate
