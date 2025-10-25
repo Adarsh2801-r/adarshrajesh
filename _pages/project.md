@@ -12,7 +12,7 @@ feature_row1:
      alt: "Concurrent KV Store"
      title: "Concurrent KV Store"
      excerpt: "Built an in-memory message store in Go supporting concurrent CRUD operations across multiple clients using goroutines and channels to safely coordinate access"
-   - image_path: /assets/images/lsp.png
+   - image_path: /assets/images/lsp2.png
      title: "LSPnet : Live Sequence Protocol"
      excerpt: "Designed and implemented a reliable client-server communication protocol over UDP with exactly-once, in-order message delivery, connection management, and checksum-based data integrity verification"
    - image_path: /assets/images/bitcoin.jpeg
