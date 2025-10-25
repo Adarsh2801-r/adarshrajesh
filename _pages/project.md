@@ -8,6 +8,17 @@ header:
   overlay_filter: 0.6
 
 feature_row1:
+   - image_path: /assets/images/kv.jpeg
+     alt: "Concurrent KV Store"
+     title: "Concurrent KV Store"
+     excerpt: "Built an in-memory message store in Go supporting concurrent CRUD operations across multiple clients using goroutines and channels to safely coordinate access"
+   - image_path: /assets/images/lsp.png
+     title: "LSPnet : Live Sequence Protocol"
+     excerpt: "Designed and implemented a reliable client-server communication protocol over UDP with exactly-once, in-order message delivery, connection management, and checksum-based data integrity verification"
+   - image_path: /assets/images/bitcoin.jpeg
+     title: "Distributed Bitcoin Miner"
+     excerpt: "Developed a distributed computing system in Go using a client–server–worker model with a Shortest Remaining Time Preemptive (SRTP) scheduler for fair and efficient task allocation. Implemented dynamic load balancing, chunk-based preemption, and fault-tolerant job reassignment to minimize mean response time and maximize worker utilization"
+feature_row2:
    - image_path: /assets/images/malloc.png
      alt: "Dynamic Memory Allocator ( Malloc Lab )"
      title: "Dynamic Memory Allocator ( Malloc Lab )"
@@ -17,8 +28,8 @@ feature_row1:
      excerpt: "Implemented a concurrent web proxy server in C that forwards HTTP requests from clients to end servers and relays responses back, gaining hands-on experience with sockets, concurrency, and network programming."
    - image_path: /assets/images/shell.jpg
      title: "Tiny Unix Shell (Tsh Lab)"
-     excerpt: "Implemented a miniature Unix shell supporting built-in job control (fg, bg, jobs, quit), execution of standard Linux commands, and Unix I/O redirection. Gained hands-on experience with process creation & termination, signal handling, and file descriptors, building a deeper understanding of OS internals and systems programming."
-feature_row2:
+     excerpt: "Implemented a miniature Unix shell supporting built-in job control (fg, bg, jobs, quit), execution of standard Linux commands, and Unix I/O redirection."
+feature_row3:
   - image_path: /assets/images/jdk_upgrade.png
     alt: "JDK upgrade"
     title: "JDK upgrade for GC optimization"
@@ -39,7 +50,7 @@ feature_row2:
     url: "https://github.com/Adarsh2801-r/image_captioning"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
+feature_row4:
   - image_path: /assets/images/defect_prediction.png
     alt: "Defect Prediction"
     title: "Software Defect Prediction"
@@ -47,7 +58,7 @@ feature_row3:
     url: "https://github.com/Adarsh2801-r/Software-Defect-Prediction-Research"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row4:
+feature_row5:
   - image_path: /assets/images/AI-bot.png
     alt: "AI-bot"
     title: "ENiGMA : AI ChatBot"
@@ -69,7 +80,7 @@ feature_row4:
     url: "https://github.com/Adarsh2801-r/Shortest-path-using-ASTAR---GMAPS"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row5:
+feature_row6:
   - image_path: /assets/images/compiler.webp
     alt: "Compiler"
     title: "Compiler 'Parlance'"
@@ -96,13 +107,16 @@ feature_row5:
 <h2>Graduate Projects (Carnegie Mellon University) </h2>
 {% include feature_row id="feature_row1" %}
 
-<h2>Industry Projects</h2>
 {% include feature_row id="feature_row2" %}
 
+
+<h2>Industry Projects</h2>
+{% include feature_row id="feature_row3" %}
+
 <h2>Research Projects</h2>
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row4" type="left" %}
 
 <h2>Undergraduate Projects (BITS Pilani) </h2>
-{% include feature_row id="feature_row4" %}
+{% include feature_row id="feature_row5" %}
 
-{% include feature_row id="feature_row5" %} 
+{% include feature_row id="feature_row6" %} 
