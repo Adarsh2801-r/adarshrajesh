@@ -9,7 +9,7 @@ header:
 last_modified_at: 2024-12-27T11:59:26-04:00
 ---
 
-Hi! I’m Adarsh, a graduate student at Carnegie Mellon University SCS, pursuing Master’s in Computational Data Science. My interests lie at the intersection of AI and Software Systems, and I’m passionate about gaining a comprehensive understanding of how to build and scale production-grade ML systems. I hold a Bachelor’s degree in Computer Science with a minor in Data Science from BITS Pilani, and I am always looking out for opportunities to add value to real-world software applications. 
+Hi! I’m Adarsh, a graduate student at Carnegie Mellon University, School of Computer Science pursuing Master’s in Computational Data Science. My interests lie at the intersection of AI and Software Systems, and I’m passionate about gaining a comprehensive understanding of how to build and scale production-grade ML systems. I hold a Bachelor’s degree in Computer Science with a minor in Data Science from BITS Pilani, and I am always looking out for opportunities to add value to real-world software applications. 
 
 I have around 2 years of experience in backend development, building scalable, high-performance micro-services handling millions of live requests. I specialize in backend engineering, distributed systems, and performance optimization, developing robust and efficient software solutions that drive business success.
 
